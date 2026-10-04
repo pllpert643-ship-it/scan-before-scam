@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pllpert643-ship-it.github.io/scan-before-scam/sitemap.xml
